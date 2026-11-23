@@ -1,4 +1,4 @@
-[ReadMe (1).md](https://github.com/user-attachments/files/35238314/ReadMe.1.md)
+
 
 # 💫 About Me:
 🔭 I’m currently working on **AI-powered systems, robotics, and intelligent automation**<br><br>👥 I’m looking to collaborate on **Robotics, Open-Source Software, AI, and Embedded Systems projects**<br><br>🤝 I’m looking for help with **Engineering complex systems, software architecture, and real-world problem solving**<br><br>🌱 I’m currently learning **Advanced C, Java, Python, ROS, System Design, and Robotics**<br><br>💬 Ask me about **Robotics, Software Development, Automation, AI Assistants, and Engineering Projects**<br><br>⚡ Fun fact: **I believe the best way to learn engineering is to build something that actually works.**
